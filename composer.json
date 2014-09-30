@@ -2,8 +2,11 @@
     "name": "junior/slim-demo",
     "description": "slim demo",
     "require": {
+        "php": ">=5.4",
         "slim/slim": "~2.4",
-        "slim/views": "~0.1"
+        "slim/views": "~0.1",
+        "twig/twig": "1.*",
+        "gabordemooij/redbean": "*"
     },
     "require-dev": {
         "phpunit/php-code-coverage": "~2.0"
