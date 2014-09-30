@@ -1,0 +1,17 @@
+{
+    "name": "junior/slim-demo",
+    "description": "slim demo",
+    "require": {
+        "slim/slim": "~2.4",
+        "slim/views": "~0.1"
+    },
+    "require-dev": {
+        "phpunit/php-code-coverage": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "Junior Hsu",
+            "email": "ayijun@gmail.com"
+        }
+    ]
+}
